@@ -15,8 +15,7 @@
 			id: 4582797,
 			category: 'food',
 			title: 'Community Gardening',
-			description:
-				'Join us as we tend to the community edible plants.',
+			description: 'Join us as we tend to the community edible plants.',
 			location: 'Flora City',
 			date: 'March 14, 2022',
 			time: '10:00',
@@ -33,6 +32,6 @@
 			time: '11:00',
 			petsAllowed: false,
 			organizer: 'Carey Wales',
-		},
+		}
 	],
 }
